@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Himanshu Rana
 
-<!--
-**Himanshu-rana-IITK/Himanshu-rana-IITK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Economics Undergraduate at IIT Kanpur.
 
-Here are some ideas to get you started:
+## Interests
+- Consulting
+- Business Analytics
+- Finance
+- Data Science
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- Python
+- SQL
+- Excel
+- Power BI
+- C++
+
+## Featured Projects
+- Customer Segmentation & Retention Analytics
+- Natural Language Dependency Tree Analysis
+- Investment Banking Analysis
+- Route Optimization using Graph Theory
